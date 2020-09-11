@@ -16,4 +16,4 @@ to run it go to the project root directry in your terminal and type "npm start" 
 open up your browser in the port that it is running.
 
 
-![White Board Preview](/images/preview.jpeg)
+
